@@ -8,7 +8,7 @@ redirect_from:
 ---
 I am a junior student majoring in Computer Science and Technology at Northwest A&F University. My research focuses on AI systems. This website will document my personal growth and achievements.
 
-[My past blog where I recorded my notes] (https://www.cnblogs.com/algoshimo)
+[My past blog where I recorded my notes](https://www.cnblogs.com/algoshimo)
 
 A data-driven personal website
 ======
