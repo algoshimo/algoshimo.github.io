@@ -1,7 +1,7 @@
 ---
-title: "Archive Layout with Content"
+title: "Archive"
 layout: archive
-permalink: /archive-layout-with-content/
+permalink: /archive/
 ---
 
 A variety of common markup showing how the theme styles them.
@@ -171,7 +171,12 @@ Still sticking with science and Isaac Newton's E = MC<sup>2</sup>, which should 
 
 This allows you to denote <var>variables</var>.
 
-{% include base_path %}
+<!-- {% include base_path %}
 {% for post in site.pages %}
 {% include archive-single.html %}
+{% endfor %} -->
+
+{% assign jyyos_posts = site.posts | where_exp: "post", "post.path contains '_posts/jyyos-2025/'" %}
+{% for post in jyyos_posts %}
+    {% include archive-single.html %}
 {% endfor %}
