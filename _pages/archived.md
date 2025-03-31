@@ -8,7 +8,7 @@ permalink: /archived/
 
 <ul>
   {% for post in site.posts %}
-    {% if post.categories contains "Archived" %}
+    {% if post.categories contains "jyyos 2025" %}
       <li><a href="{{ post.url }}">{{ post.title }}</a> - {{ post.date | date: '%B %d, %Y' }}</li>
     {% endif %}
   {% endfor %}
