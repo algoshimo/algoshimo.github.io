@@ -176,7 +176,4 @@ This allows you to denote <var>variables</var>.
 {% include archive-single.html %}
 {% endfor %} -->
 
-{% assign jyyos_posts = site.posts | where_exp: "post", "post.path contains '_posts/jyyos-2025/'" %}
-{% for post in jyyos_posts %}
-    {% include archive-single.html %}
-{% endfor %}
+[jyyos-2025](https://algoshimo.github.io/categories/#jyyos-2025)
