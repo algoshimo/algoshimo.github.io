@@ -1,8 +1,9 @@
 ---
-title: "Archive"
+title: "Archive Layout with Content"
 layout: archive
 permalink: /archive/
 ---
+[jyyos-2025](https://algoshimo.github.io/categories/#jyyos-2025)
 
 A variety of common markup showing how the theme styles them.
 
