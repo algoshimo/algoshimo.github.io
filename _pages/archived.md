@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Archived Posts
-permalink: /jyyos-2025/
+permalink: /archived/
 ---
 
 # 归档博客文章
