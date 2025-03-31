@@ -176,4 +176,13 @@ This allows you to denote <var>variables</var>.
 {% include archive-single.html %}
 {% endfor %} -->
 
+---
+permalink: /
+title: "About Me"
+author_profile: true
+redirect_from: 
+  - /archived/
+  - /archived.html
+---
+
 [jyyos-2025](https://algoshimo.github.io/categories/#jyyos-2025)
