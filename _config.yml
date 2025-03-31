@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US" #站点语言
 site_theme               : "default" #主题
-title                    : "Your Name / Site Title" #网站标题
+title                    : "algoshimo" #网站标题
 title_separator          : "-" #标题分隔符
 name                     : &name "Your Name" 
 description              : &description "personal description" #站点描述
