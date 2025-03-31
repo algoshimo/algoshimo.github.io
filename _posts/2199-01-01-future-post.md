@@ -1,12 +1,7 @@
 ---
-title: 'Future Blog Post'
-date: 2199-01-01
-permalink: /posts/2012/08/blog-post-4/
+title: '程序和进程/进程的地址空间'
+permalink: /posts/jyyos-2025/process/
 categories : [jyyos 2025]
-tags:
-  - cool posts
-  - category1
-  - category2
 ---
 我将会记录jyyos-2025
-This post will show up by default. To disable scheduling of future posts, edit `config.yml` and set `future: false`. 
+
