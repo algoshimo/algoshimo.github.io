@@ -225,7 +225,9 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
-
+  posts:
+    output: true
+    permalink: /:year/:month/:day/:title/  # 保持 URL 包含日期
 
 # These settings control how pages and collections are included in the site
 defaults:
