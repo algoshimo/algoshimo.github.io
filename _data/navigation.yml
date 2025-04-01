@@ -34,3 +34,6 @@ main:
 
   - title: "archive"
     url: /archive/
+
+  - title: "category_archive"
+    url: /categories/
