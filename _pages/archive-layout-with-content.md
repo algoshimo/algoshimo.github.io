@@ -1,7 +1,6 @@
 ---
 #title: "Archive Layout with Content"
-# layout: archive
-layout : page
+layout: archive
 title : 归档
 permalink: /archive/
 ---
