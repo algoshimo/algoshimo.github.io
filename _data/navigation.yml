@@ -35,5 +35,5 @@ main:
   - title: "archive"
     url: /archive/
 
-  - title: "category_archive"
-    url: /collection-archive/
+  # - title: "category_archive"
+  #   url: /collection-archive/
